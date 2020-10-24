@@ -11,5 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         
         System.out.println( "My first git commit" );
+        
+        System.out.println( "My second git commit" );
     }
 }
