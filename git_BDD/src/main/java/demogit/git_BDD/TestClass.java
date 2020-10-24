@@ -3,5 +3,5 @@ package demogit.git_BDD;
 public class TestClass {
 
 	
-	int i=5;
+	int i=9;
 }
